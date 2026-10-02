@@ -8,3 +8,6 @@ Another example:
 
 Additional example:
 (-20) + 30 = 10
+
+How Multiplication works:
+2 * 2 = 4
